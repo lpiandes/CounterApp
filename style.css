@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+}
+
+h2 {
+    text-align: center;
+    font-size: 200px;
+    color: blue;
+}
+
+div {
+    text-align: center;
+    font-size: 100px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    color: blue;
+}
